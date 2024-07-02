@@ -1,0 +1,7 @@
+{
+    "queryStringParameters": {
+        "name": "Benjamin"
+    },
+    "resource": "/customers",
+    "httpMethod": "GET"
+}
